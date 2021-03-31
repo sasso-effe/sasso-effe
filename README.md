@@ -12,7 +12,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sasso-effe&count_private=true&show_icons=true&theme=buefy" />
 </a>
 <a href="https://github.com/sasso-effe/sasso-effe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasso-effe&layout=compact&theme=buefy&langs_count=4" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasso-effe&layout=compact&theme=buefy&langs_count=6" />
 </a>
 
 _NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub_
