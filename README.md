@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with [XVLauncher documentation](https://github.com/sasso-effe/XVlauncher)
 - 📫 How to reach me: Write me an email or contact me on [Linkedin](https://www.linkedin.com/in/pietro-fanti/)
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I use white themes to code
+- ⚡ Fun fact: I use light themes to code
 
 <a href="https://github.com/sasso-effe/sasso-effe">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sasso-effe&count_private=true&show_icons=true&theme=buefy" />
