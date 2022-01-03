@@ -2,7 +2,7 @@
 
 - 🎓 I graduated from a BSc in Computer Science @ University of Florence, First Class Hons. cum Laude
 - 🌱 I’m currently a MSc student in Artificial Intelligence @ University of Bologna
-- 🔭 I’m currently working on [Natural Language Processing project](https://github.com/Deep-Poets-Society/Deep-Comedy)
+- 🔭 I’m currently working on [Natural Language Processing project](https://github.com/NLPetroni)
 - 🤔 I’m looking for help with [XVLauncher documentation](https://github.com/sasso-effe/XVlauncher)
 - 📫 How to reach me: Write me an email or contact me on [Linkedin](https://www.linkedin.com/in/pietro-fanti/)
 - 📱 Check my [Android apps](https://play.google.com/store/apps/dev?id=5132727932352985546)
