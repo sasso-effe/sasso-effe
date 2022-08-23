@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/31796254/186103987-3156483f-e807-4c0e-9d6e-fdb4da8d2aaf.png)
+
+
 ### Hi there 👋
 
 - 🎓 I graduated from a BSc in Computer Science @ University of Florence, First Class Hons. cum Laude
