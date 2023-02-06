@@ -5,10 +5,11 @@
 
 - 🎓 I graduated from a BSc in Computer Science @ University of Florence, First Class Hons. cum Laude
 - 🌱 I’m currently a MSc student in Artificial Intelligence @ University of Bologna
-- 🔭 I’m currently working as AI Researcher @ Bending Spoons
-- 🔬 At the moment I'm focusing on Computer Vision, Color Enhancement in particular 
+- 🔭 I’m currently working as AI Applied Researcher @ Bending Spoons
+  -  🎨 Worked on the color enhancement feature for [Remini](https://remini.ai/)
+  -  🤖 Now working on AI avatar generation on [Dawn AI](https://apps.apple.com/it/app/dawn-ai-avatar-generator/id1643890882)
+- 🔬 At the moment I'm focusing on image generation with Stable Diffusion
 - 📫 How to reach me: Write me an email or contact me on [Linkedin](https://www.linkedin.com/in/pietro-fanti/)
-- 📱 Check my [Android apps](https://play.google.com/store/apps/dev?id=5132727932352985546)
 - 😄 Pronouns: he/him
 - 🤭 Fun fact: I use light themes to code
 
