@@ -11,5 +11,3 @@
   - 🌕 Computer Vision for egomotion in lunar landing scenarios
   - ☄️ Neural Gravitational Fields
 - 📫 How to reach me: Write me an email or contact me on [Linkedin](https://www.linkedin.com/in/pietro-fanti/)
-- 😄 Pronouns: he/him
-- 🤭 Fun fact: I use light themes to code
