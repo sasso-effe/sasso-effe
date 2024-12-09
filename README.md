@@ -3,12 +3,13 @@
 
 ### Hi there 👋
 
-- 🎓 I graduated from a BSc in Computer Science @ University of Florence, First Class Hons. cum Laude
-- 🌱 I’m currently a MSc student in Artificial Intelligence @ University of Bologna
-- 🔭 I’m currently working as AI Applied Researcher @ Bending Spoons
-  -  🎨 Worked on the color enhancement feature for [Remini](https://remini.ai/)
-  -  🤖 Now working on AI avatar generation on [Dawn AI](https://apps.apple.com/it/app/dawn-ai-avatar-generator/id1643890882)
-- 🔬 At the moment I'm focusing on image generation with Stable Diffusion
+- 🎓 I got a BSc in Computer Science @ University of Florence and then a MSc student in Artificial Intelligence @ University of Bologna
+- 🥄 I worked as AI Applied Researcher @ Bending Spoons
+  - 🎨 Trained the model behind the  color enhancement feature for [Remini](https://remini.ai/)
+  - 🤖 Worked on Generative Computer Vision features
+- 🛸 Currently working in the [Advanced Concepts Team @ ESA](https://www.esa.int/gsp/ACT/). Research topics:
+  - 🌕 Computer Vision for egomotion in lunar landing scenarios
+  - ☄️ Neural Gravitational Fields
 - 📫 How to reach me: Write me an email or contact me on [Linkedin](https://www.linkedin.com/in/pietro-fanti/)
 - 😄 Pronouns: he/him
 - 🤭 Fun fact: I use light themes to code
